@@ -33,7 +33,7 @@ GenerateMonthlyPayslip Mary 96200
 ---
 ## Documentation
 
-The prompt-sync [Node module](https://github.com/heapwolf/prompt-sync) provides an easy-to-use alternative to this callback-based syntax.
+The prompt-sync Node module provides an easy-to-use alternative to this callback-based syntax.
 
 The prompt() function returns the user feedback, so simply store that return value to a variable to use it later.
 
